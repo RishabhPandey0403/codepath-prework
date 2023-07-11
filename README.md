@@ -2,7 +2,7 @@
 
 Submitted by: **Rishabh Pandey**
 
-**Rolor** is an app that displays some background information about me and includes a button that changes the color of the background! [TODO] 
+**Rolor** is an app that displays some background information about me and includes a button that changes the color of the background!
 
 Time spent: **1** hours spent in total
 
