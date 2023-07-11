@@ -1,6 +1,3 @@
-# codepath-prework
-Codepath Prework Project
-
 # Prework - *Intro to XCode*
 
 Submitted by: **Rishabh Pandey**
