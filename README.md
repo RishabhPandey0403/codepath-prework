@@ -29,6 +29,16 @@ GIF created with Kap.
 
 ## App Brainstorming (Step 4)
 
+- Robinhood
+  1. Allows display of real-time data using APIs.
+  2. Shows charts of stock price.
+- Threads
+  1. Endless scrolling functionality.
+  2. Interested in the recommendation algorithm used for threads.
+- Spotify
+  1. Social tab that shows what your friends are listening to in the moment.
+  2. Ability to make playlists and queue songs.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
