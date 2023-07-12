@@ -39,6 +39,11 @@ GIF created with Kap.
   1. Social tab that shows what your friends are listening to in the moment.
   2. Ability to make playlists and queue songs.
 
+Personal Idea:
+
+Main idea: To build an all-in-one app for my university.
+Functionality: Some of the main tools I want to include in my project are the ability to make groupchats for classes (messaging), something similar to the yikyak app where you can make anonymous posts, gpa calculations, looking up class availability, and some more similar features. This seems very farfetched and vague, but I am hoping to learn Swift to develop this for my Senior Design Project next year!
+
 ## Notes
 
 Describe any challenges encountered while building the app.
