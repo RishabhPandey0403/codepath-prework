@@ -1,11 +1,8 @@
-# codepath-prework
-Codepath Prework Project
-
 # Prework - *Intro to XCode*
 
 Submitted by: **Rishabh Pandey**
 
-**Rolor** is an app that displays some background information about me and includes a button that changes the color of the background! [TODO] 
+**Rolor** is an app that displays some background information about me and includes a button that changes the color of the background!
 
 Time spent: **1** hours spent in total
 
@@ -20,10 +17,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/51IVpHi' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://imgur.com/a/51IVpHi' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/51IVpHi"  ><a href="//imgur.com/a/51IVpHi">CodepathPrework.gif</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap.  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
